@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="spacing">8dp</dimen> <!-- Change the value to adjust the spacing -->
+    <dimen name="spacing2">5dp</dimen> <!-- Change the value to adjust the spacing -->
+    <dimen name="spacing3">3dp</dimen> <!-- Change the value to adjust the spacing -->
+</resources>
